@@ -11,11 +11,3 @@
 
 <img width="720" height="330" alt="Screenshot_20251123-185524" src="https://github.com/user-attachments/assets/916726f3-efd1-4dab-952e-16034d187d8c" />
 
-
-
-
-
-
-
-<img width="720" height="409" alt="Screenshot_20251123-230855" src="https://github.com/user-attachments/assets/0161c48b-7827-462e-a82b-22104ba8bc43" />
-
